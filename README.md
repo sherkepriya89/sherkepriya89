@@ -162,27 +162,12 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
+## ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sherkepriya89/blogging-oasis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sherkepriya89&repo=blogging-oasis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&cache_seconds=86400&v=2" />
-</a>
-
-<a href="https://github.com/sherkepriya89/PythonProblemSet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sherkepriya89&repo=PythonProblemSet&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&cache_seconds=86400&v=2" />
-</a>
-
-<a href="https://github.com/sherkepriya89/Shortest-path">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sherkepriya89&repo=Shortest-path&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&cache_seconds=86400&v=2" />
-</a>
-
-<a href="https://github.com/sherkepriya89/Algorithm-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sherkepriya89&repo=Algorithm-Analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&cache_seconds=86400&v=2" />
-</a>
-
-</div>
+- 🔹 [blogging-oasis](https://github.com/sherkepriya89/blogging-oasis)
+- 🔹 [PythonProblemSet](https://github.com/sherkepriya89/PythonProblemSet)
+- 🔹 [Shortest-path](https://github.com/sherkepriya89/Shortest-path)
+- 🔹 [Algorithm-Analysis](https://github.com/sherkepriya89/Algorithm-Analysis)
 
 
 ### 📊 Top Repositories
