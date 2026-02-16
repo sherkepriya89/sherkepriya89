@@ -29,14 +29,6 @@
 
 ## 👩‍💻 About Me
 
-| | |
-|---|---|
-| 📍 **Clarksburg, Maryland** <br/> 💼 **8+ years** <br/> 🔭 Working on **[PythonProblemSet](https://github.com/sherkepriya89/PythonProblemSet)** <br/> 🌱 Learning **AI/ML** <br/> 💬 Ask me about **Test Architecture, AI Testing, CI/CD Quality Gates, Scalable Automation** <br/> 🎓 Certifications: **AWS Certified AI Practitioner \| ISTQB CTFL \| Agile Tester \| Mobile Tester** <br/> ⚡ Fun fact: **I think in systems, not just test cases.** | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherkepriya89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=86400&v=2" /> |
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherkepriya89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=1800" />
-
-
 📍 **Clarksburg, Maryland **
 
 💼 **8+**
