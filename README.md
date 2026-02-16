@@ -37,6 +37,22 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherkepriya89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 
 
+📍 **Clarksburg, Maryland **
+
+💼 **8+**
+
+🔭 Currently working on **[PythonProblemSet](https://github.com/sherkepriya89/PythonProblemSet)**
+
+🌱 Currently learning **AI/ML  **
+
+💬 Ask me about **Test Architecture, AI Testing Strategies, CI/CD Quality Gates, Scalable Automation Frameworks**
+
+🎓 Certifications: **AWS Certified AI Practitioner | ISTQB CTFL | Agile Tester | Mobile Tester**
+
+⚡ Fun fact: **I think in systems, not just test cases.**
+
+📦 **4** repositories | ⭐ **1** stars | 👥 **1** followers
+
 <br clear="right"/>
 
 
